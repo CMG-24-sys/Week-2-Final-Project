@@ -428,8 +428,11 @@ input:focus {
 
 .values__description--titles {
     display: flex;
+    justify-content: space-between;
     font-weight: bold;
     font-size: 20px;
+    padding-right: 30%;
+    padding-left: 10%;
 }
 
 
